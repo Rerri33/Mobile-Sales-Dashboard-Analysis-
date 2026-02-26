@@ -1,6 +1,9 @@
 # Mobile Sales Dashboard Analysis (Power BI)
 
 ##   Project Overview  
+## 📸 Dashboard Preview
+
+![Dashboard](Dashboard.jpg)
 This project analyzes mobile device sales data to uncover **revenue drivers, customer behavior, and sales performance** across regions and channels.
 
 The dashboard was built using Microsoft Power BI to transform raw data into actionable business insights.
