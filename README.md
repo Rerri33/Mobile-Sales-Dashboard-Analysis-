@@ -9,7 +9,7 @@ The dashboard was built using Microsoft Power BI to transform raw data into acti
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Mobile-Data-sales-|-Dashboardl)
+![Dashboard](Mobile-Data-sales-Dashboard.Jpg)
 
 ---
 
