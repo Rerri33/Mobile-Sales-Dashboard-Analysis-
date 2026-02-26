@@ -84,3 +84,12 @@ A full video explanation of the dashboard is available here:
 ---
 
 ## 💡 Key Takeaway  
+This project demonstrates my ability to:
+- Analyze and interpret data  
+- Build interactive dashboards  
+- Communicate insights clearly for business decision-making  
+
+---
+
+## 📌 Author  
+Aspiring Data Analyst | Open to entry-level opportunities  
